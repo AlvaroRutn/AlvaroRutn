@@ -1,17 +1,20 @@
 # 👋 Hola, soy Alvaro
 
-Soy estudiante de informática con interés en ciencia de datos, simulacion y desarrollo web.
+Soy estudiante de informática con interés en ciencia de datos, simulación y desarrollo web.  
 Me gusta aprender tecnologías nuevas y trabajar en proyectos colaborativos.
 
 ## 🔧 Tecnologías que uso
-- HTML, CSS, JavaScript
-- Python
-- MySQL
-- Git y GitHub
-## 🔭Actualmente aprendiendo: 
--Flask
--SQLAlchemy
--Pandas
+
+- HTML, CSS, JavaScript  
+- Python  
+- MySQL  
+- Git y GitHub  
+
+## 🔭 Actualmente aprendiendo
+
+- Flask  
+- SQLAlchemy  
+- Pandas
 
 <!--
 **AlvaroRutn/AlvaroRutn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
