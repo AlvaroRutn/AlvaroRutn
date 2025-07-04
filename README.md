@@ -1,4 +1,3 @@
-## Hi there 👋
 # 👋 Hola, soy Alvaro
 
 Soy estudiante de informática con interés en ciencia de datos, simulacion y desarrollo web.
