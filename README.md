@@ -1,18 +1,18 @@
 # 👋 Hola, soy Alvaro
 
-Soy estudiante de informática con interés en ciencia de datos, simulación y desarrollo web.  
+Soy estudiante de ingenieria en sistemas, con interés en ciencia de datos, simulación y desarrollo web.  
 Me gusta aprender tecnologías nuevas y trabajar en proyectos colaborativos.
 
 ## 🔧 Tecnologías que uso
 
-- HTML, CSS, JavaScript  
+- HTML, CSS, JavaScript, Typescript 
 - Python  
-- MySQL  
-- Git y GitHub  
+- MySQL, SQLite
+- Git y GitHub
+- Flask
 
 ## 🔭 Actualmente aprendiendo
-
-- Flask  
+ 
 - SQLAlchemy  
 - Pandas
 
