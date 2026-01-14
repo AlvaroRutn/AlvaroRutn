@@ -5,15 +5,12 @@ Me gusta aprender tecnologías nuevas y trabajar en proyectos colaborativos.
 
 ## 🔧 Tecnologías que uso
 
-- HTML, CSS, JavaScript, Typescript 
-- Python  
+- HTML, CSS, JavaScript, Typescript y Angular
+- Python, Flask y Kivy  
 - MySQL, SQLite
 - Git y GitHub
-- Flask
 
 ## 🔭 Actualmente aprendiendo
- 
-- SQLAlchemy  
 - Pandas
 
 <!--
