@@ -12,7 +12,10 @@ Me gusta aprender tecnologías nuevas y trabajar en proyectos colaborativos.
 
 ## 🔭 Actualmente aprendiendo
 - Pandas
+- WSL & Docker
 
+## Link a portfolio (Aún desarrollandose)
+https://portafolioalvaro.vercel.app/#me
 <!--
 **AlvaroRutn/AlvaroRutn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
