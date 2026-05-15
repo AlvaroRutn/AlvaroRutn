@@ -5,14 +5,16 @@ Me gusta aprender tecnologías nuevas y trabajar en proyectos colaborativos.
 
 ## 🔧 Tecnologías que uso
 
-- HTML, CSS, JavaScript, Typescript y Angular
+- HTML, CSS, JavaScript, Typescript, Angular y React
 - Python, Flask y Kivy  
 - MySQL, SQLite
 - Git y GitHub
+- Node.Js
+- WSL
 
 ## 🔭 Actualmente aprendiendo
 - Pandas
-- WSL & Docker
+- Docker
 
 ## Link a portfolio (Aún desarrollandose)
 https://portafolioalvaro.vercel.app/#me
