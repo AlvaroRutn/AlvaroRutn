@@ -40,6 +40,42 @@ En mi día a día trabajo con las siguientes herramientas
 ![](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 ![](https://img.shields.io/badge/WSL-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
+### Proyectos realizados hasta la fecha
 
-## Link a portfolio (Aún en desarrollo)
-https://portafolioalvaro.vercel.app/#me
+### 🖥️ Sistemas y Aplicaciones Web
+* **[Sistema de Gestión de Stock]**  
+  Aplicación de escritorio para la gestión de inventario, productos, ventas, compras y control de movimientos.  
+  `Tech:` **Python (Flask)** | **SQLite**
+
+* **[Página de Gestión de Cursos]**  
+  Plataforma educativa con inscripción en línea, panel de administración docente y generación automática de certificados en PDF.  
+  `Tech:` **Angular**
+
+* **[Gestión de Estudio Jurídico]**  
+  Sistema web integral para el seguimiento de casos legales, clientes y administración de expedientes.  
+  `Tech:` **Next.js** | **React** | **Supabase**
+
+* **[MiPlato.IA]**  
+  Aplicación de control nutricional que utiliza visión por computadora e IA para analizar imágenes de platillos y calcular su valor nutricional.  
+  `Tech:` **Inteligencia Artificial**
+
+ * **[RODO F5]**  
+  Plataforma web para la gestión de turnos de un complejo de Fútbol 5.  
+  `Tech:` **Angular**
+
+---
+
+### 🤖 Automatización e IA
+* **[Noticias Diarias vía Email]**  
+  Workflow automatizado que analiza e integra noticias e información financiera mediante IA para enviar resúmenes por correo.  
+  `Tech:` **n8n** | **Inteligencia Artificial**
+
+* **[Bot de Telegram para Gestión de Calendario]**  
+  Bot asistente que permite agendar, modificar y recibir recordatorios de eventos en el calendario directamente desde Telegram.  
+  `Tech:` **n8n** | **Telegram API**
+
+* **[Automatización de WhatsApp]**  
+  Herramienta de escritorio para la programación y envío automatizado de mensajes en WhatsApp Web.  
+  `Tech:` **Python (Kivy)** | **PyWhatKit**
+## Link a portfolio
+[https://portafolioalvaro.vercel.app/#me](https://portfolioalvarorozas.vercel.app/)
